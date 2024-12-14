@@ -3,3 +3,5 @@ This is a white file feature
 White feature 1
 
 White feature 2
+
+White feature 3
