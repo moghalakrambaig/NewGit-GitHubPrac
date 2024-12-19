@@ -3,3 +3,11 @@ This is first file in black branch
 New Black feature 3
 
 Black feature 2
+
+Black feature 3
+
+Black feature 4
+
+Black feature 5
+
+Black feature 6
